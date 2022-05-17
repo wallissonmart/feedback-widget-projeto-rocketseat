@@ -27,7 +27,7 @@ Para acessar o web app bastar clicar no seguinte link: ---
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [React](https://pt-br.reactjs.org/docs/getting-started.html)
 - [Tailwindcss](https://tailwindcss.com/docs/installation)
-- [Phospor](https://phosphoricons.com)
+- [Phosphor](https://phosphoricons.com)
 - [Headless UI](https://headlessui.dev/)
 
 <h1 align="left" id="autor">✍️ Autor</h1>
